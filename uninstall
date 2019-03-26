@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo "Removing empatheme Empathy theme"
+
+sudo rm -r /usr/share/adium/message-styles/empatheme.AdiumMessageStyle && echo "Done"

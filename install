@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo "Installing empatheme Empathy theme"
+
+sudo mkdir /usr/share/adium/message-styles/empatheme.AdiumMessageStyle && \
+sudo cp -r -i ./Contents /usr/share/adium/message-styles/empatheme.AdiumMessageStyle  && \
+echo "Done"
