@@ -72,22 +72,22 @@ body {
 
 .bottom {
 	position: relative;
-	margin: 0 8px;
-	height: 8px;
+	margin: 0 4px;
+	height: 4px;
 }
 
 .bottom .left {
 	position: absolute;
 	left: -8px;
 	width: 8px;
-	height: 8px;
+	height: 4px;
 }
 
 .bottom .right {
 	position: absolute;
 	right: -8px;
 	width: 8px;
-	height: 8px;
+	height: 4px;
 }
 
 .status {
